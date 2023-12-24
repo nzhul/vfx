@@ -38911,7 +38911,7 @@ GameObject:
   - component: {fileID: 964095082}
   - component: {fileID: 964095081}
   m_Layer: 0
-  m_Name: BeamGround
+  m_Name: BeamImpact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58582,8 +58582,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 3.8
-      minScalar: 3.5
+      scalar: 6
+      minScalar: 5
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -63170,7 +63170,7 @@ GameObject:
   m_Component:
   - component: {fileID: 450960102237340986}
   m_Layer: 0
-  m_Name: vfx_AreaOfEffect_v1
+  m_Name: vfx_AreaOfEffect_Arcane_v1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
